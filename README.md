@@ -1,2 +1,2 @@
-# Udacity_US_Bike_Share_Project_3
- 
+# Explore-US-Bikeshare-Data
+Udacity DAND project - Use Python to understand U.S. bikeshare data.  Calculate statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyze.
