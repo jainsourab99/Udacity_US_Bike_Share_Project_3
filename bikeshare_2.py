@@ -26,7 +26,7 @@ def get_filter_city():
     Asks user to specify a city.
 
     Returns:
-        (str) city - name of the city to analyze
+        (str) city - name of the city to analyz
     """
     # build and display the list of cities for which we have datasets
     cities_list = []
